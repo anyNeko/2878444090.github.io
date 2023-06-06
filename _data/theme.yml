@@ -1,0 +1,5 @@
+google_fonts:
+
+  - name: "Noto Serif Simplified Chinese"
+
+    weights: "300,300i,500,500i"
