@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-lang="zh-CN"
-title="Neko's imagination box"
-url="https://aneko.moe"
-twitter_username="anyneko_"
-github_username="anyneko"
+lang:zh-CN
+title:Neko's imagination box
+url:https://aneko.moe
+twitter_username:anyneko_
+github_username:anyneko
