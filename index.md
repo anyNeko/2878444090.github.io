@@ -1,3 +1,6 @@
+<head>
+  <meta name="description" content="anyneko的博客的首页。">
+</head>
 ---
 layout: home
 title: 首页
