@@ -3,3 +3,4 @@ google_fonts:
     weights: "300,300i,400,400i"
 navigation_pages:
   - introduction.md
+  - friends.md
