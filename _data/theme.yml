@@ -1,5 +1,5 @@
 google_fonts:
-  - name: "Noto Serif Simplified Chinese"
+  - name: "Noto Serif SC"
   - weights: "300,300i,500,500i"
 navigation_pages:
   - introduction.md
