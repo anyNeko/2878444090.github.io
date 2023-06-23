@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "朋友们"
+title: "友链"
 ---
 
 # 你好！
