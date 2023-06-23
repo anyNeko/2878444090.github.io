@@ -3,19 +3,6 @@
 # See: https://theme-next.org/docs/theme-settings/
 # ---------------------------------------------------------------
 
-theme: next
-language: zh-CN
-lang: zh-CN
-title: Neko's imagination box
-description: 奇迹与魔法都是存在的！
-url: https://aneko.moe
-twitter_username: anyneko_
-github_username: anyneko
-author:
-    name: Neko in an endless loop.
-read_time: true
-
-
 # If false, merge configs from `_data/next.yml` into default configuration (rewrite).
 # If true, will fully override default configuration by options from `_data/next.yml` (override). Only for NexT settings.
 # And if true, all config from default NexT `_config.yml` have to be copied into `next.yml`. Use if you know what you are doing.
